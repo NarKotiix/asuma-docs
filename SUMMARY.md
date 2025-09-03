@@ -1,8 +1,10 @@
 # Table of contents
 
+* [🖖 Bienvenue sur le Wiki !](README.md)
+
 ## 🧙‍♂️ Les classes
 
-* [⚙️ Fonctionnement des Classes](README.md)
+* [⚙️ Fonctionnement des Classes](<README (1).md>)
   * [🛡️ Féca](les-classes/fonctionnement-des-classes/feca.md)
   * [🐗 Osamodas](les-classes/fonctionnement-des-classes/osamodas.md)
   * [💓 Eniripsa](les-classes/fonctionnement-des-classes/eniripsa.md)
