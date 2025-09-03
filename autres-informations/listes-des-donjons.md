@@ -122,7 +122,7 @@ description: Spécificités des caractéristiques sur Asuma
 
 * Qu'Tan
 * Ilyzaelle
-* Grobe
+* Donjon Grobe
 
 ***
 
