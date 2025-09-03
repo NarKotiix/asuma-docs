@@ -29,4 +29,4 @@ Les Ton Magicae Premium s’obtiennent uniquement via la **Roulette d’Asuma** 
 | Ecaflip 😾  |                     |                                                                                            |
 | Sadida 🌳   |                     |                                                                                            |
 | Sacrieur 🩸 |                     |                                                                                            |
-| Pandawa 🍻  | Vulnabilirité       | S'applique en **zone de 2** (_**Zone marteau**_) et **désactive la ligne** de vue du sort. |
+| Pandawa 🍻  | Vulnérabilité       | S'applique en **zone de 2** (_**Zone marteau**_) et **désactive la ligne** de vue du sort. |
