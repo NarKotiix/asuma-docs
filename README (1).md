@@ -13,11 +13,11 @@ Chaque classe dispose de **20 sorts répartis sur 6 paliers**, comme dans le jeu
 **Montée en puissance des sorts :**
 
 * Niveau 1 : Sort acquis comme à l’origine
-* Niveau 2 : Niveau 75
-* Niveau 3 : Niveau 120
-* Niveau 4 : Niveau 150
-* Niveau 5 : Niveau 180
-* Niveau 6 : Niveau 200, dernière amélioration du sort
+* Niveau 2 : Niveau 30
+* Niveau 3 : Niveau 75
+* Niveau 4 : Niveau 120
+* Niveau 5 : Niveau 150
+* Niveau 6 : Niveau 180, dernière amélioration du sort
 
 #### 🌟 Des capacités inédites
 
