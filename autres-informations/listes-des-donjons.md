@@ -122,7 +122,7 @@ description: Spécificités des caractéristiques sur Asuma
 
 * Qu'Tan
 * Ilyzaelle
-* Péki Garou
+* Grobe
 
 ***
 
@@ -149,3 +149,13 @@ description: Spécificités des caractéristiques sur Asuma
 * Le Transporteur de Sylargh
 * Le Laboratoire de Nileza
 * Le Donjon du Comte Harebourg
+
+***
+
+**Donjon Custom**
+
+* Donjon MoonArch
+* DragoDonjon
+* Eraziel
+* Antre du Nidas
+
