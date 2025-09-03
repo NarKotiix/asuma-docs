@@ -19,16 +19,6 @@
   * [🍻 Pandawa](les-classes/fonctionnement-des-classes/pandawa.md)
 * [🌟 Fonctionnement des caractéristiques & passifs](les-classes/fonctionnement-des-caracteristiques-and-passifs.md)
 
-## 🏹 Les Items
-
-* [🥚 Les Dofus](les-items/les-dofus/README.md)
-  * [⚛️ Les Dofus Obscur](les-items/les-dofus/les-dofus-obscur/README.md)
-    * [☯️ Amélioration des Dofus Obscur](les-items/les-dofus/les-dofus-obscur/amelioration-des-dofus-obscur.md)
-  * [🕹️ Les Dofus Retro](les-items/les-dofus/les-dofus-retro/README.md)
-    * [Amélioration des Dofus](les-items/les-dofus/les-dofus-retro/amelioration-des-dofus.md)
-  * [🍧 Les Dofus Frigost](les-items/les-dofus/les-dofus-frigost/README.md)
-    * [Amélioration des Dofus Frigost](les-items/les-dofus/les-dofus-frigost/amelioration-des-dofus-frigost.md)
-
 ## ❄️ Frigost
 
 * [☃️ Mécaniques de Frigost](frigost/mecaniques-de-frigost/README.md)
@@ -52,6 +42,13 @@
 
 ## ⚡ Les items d'Assuma
 
+* [🥚 Les Dofus](les-items-dassuma/les-dofus/README.md)
+  * [⚛️ Les Dofus Obscur](les-items-dassuma/les-dofus/les-dofus-obscur/README.md)
+    * [☯️ Amélioration des Dofus Obscur](les-items-dassuma/les-dofus/les-dofus-obscur/amelioration-des-dofus-obscur.md)
+  * [🕹️ Les Dofus Retro](les-items-dassuma/les-dofus/les-dofus-retro/README.md)
+    * [Amélioration des Dofus](les-items-dassuma/les-dofus/les-dofus-retro/amelioration-des-dofus.md)
+  * [🍧 Les Dofus Frigost](les-items-dassuma/les-dofus/les-dofus-frigost/README.md)
+    * [Amélioration des Dofus Frigost](les-items-dassuma/les-dofus/les-dofus-frigost/amelioration-des-dofus-frigost.md)
 * [✨ Les Ton Magicae](les-items-dassuma/les-ton-magicae/README.md)
   * [✴️ Mystery Ton Magicae v1](les-items-dassuma/les-ton-magicae/mystery-ton-magicae-v1.md)
   * [⭐ Mystery Ton Magicae v2](les-items-dassuma/les-ton-magicae/mystery-ton-magicae-v2.md)
