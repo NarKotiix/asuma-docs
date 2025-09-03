@@ -43,10 +43,10 @@
 ## ⚡ Les items d'Assuma
 
 * [🥚 Les Dofus](les-items-dassuma/les-dofus/README.md)
-  * [⚛️ Les Dofus Obscur](les-items-dassuma/les-dofus/les-dofus-obscur/README.md)
-    * [☯️ Amélioration des Dofus Obscur](les-items-dassuma/les-dofus/les-dofus-obscur/amelioration-des-dofus-obscur.md)
   * [🕹️ Les Dofus Retro](les-items-dassuma/les-dofus/les-dofus-retro/README.md)
     * [Amélioration des Dofus](les-items-dassuma/les-dofus/les-dofus-retro/amelioration-des-dofus.md)
+  * [⚛️ Les Dofus Obscur](les-items-dassuma/les-dofus/les-dofus-obscur/README.md)
+    * [☯️ Amélioration des Dofus Obscur](les-items-dassuma/les-dofus/les-dofus-obscur/amelioration-des-dofus-obscur.md)
   * [🍧 Les Dofus Frigost](les-items-dassuma/les-dofus/les-dofus-frigost/README.md)
     * [Amélioration des Dofus Frigost](les-items-dassuma/les-dofus/les-dofus-frigost/amelioration-des-dofus-frigost.md)
 * [✨ Les Ton Magicae](les-items-dassuma/les-ton-magicae/README.md)

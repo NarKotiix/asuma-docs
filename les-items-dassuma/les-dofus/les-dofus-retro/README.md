@@ -56,4 +56,4 @@ Se drop sur **Kralamour Géant** 🎯 Taux de drop : **0.01%**
 
 **🔴 Dofus Vulbis**
 
-Se drop sur **Crocabulia** 🎯 Taux de drop : **0.01%**
+Se drop sur **Crocabulia** - **Bworker** - **Kimbo**🎯 Taux de drop : **0.01%**
