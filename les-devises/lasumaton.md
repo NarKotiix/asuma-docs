@@ -1,11 +1,14 @@
+---
+description: 🤖 L’Assumaton — La monnaie universelle d’Asuma !
+---
+
 # 🌕 L'Asumaton
 
-🤖 **L’Assumaton — La monnaie universelle d’Asuma !**\
 Droppable sur **tous les donjons**, l’Assumaton est indispensable pour accéder à des améliorations exclusives et rares.
 
 🎯 **À quoi sert l’Assumaton ?**
 
-* 💠 Acheter des **Mutations de sorts**, utilisables **30 combats** maximum, pour personnaliser vos techniques en plein affrontement.
+* 💠 Acheter des **Mutations de sorts**, utilisables **25 combats** maximum, pour personnaliser vos techniques en plein affrontement.
 * 📜 Obtenir les **Parchemins de sorts spéciaux** propres à chaque personnage.
 * 🛡️ Acquérir **4 boucliers exclusifs**, chacun avec des jets aléatoires uniques :
 
