@@ -25,4 +25,4 @@ Ces breuvages uniques sont capables d’altérer la puissance de vos sorts et de
 | Ecaflip 😾  | Topkaj               | Inflige des **dégâts** en **vol de vie Feu**                                                                |
 | Sadida 🌳   | Feu de Brouse        | Inflige des **dégâts basés** sur **l'élément le plus élévé du lanceur**                                     |
 | Sacrieur 🩸 | Dissolution          | **Augmente** la **portée** du sort **Dissolution** de **5**                                                 |
-| Pandawa 🍻  | Vulnérabilité        | **Augmente** de **1** le **nombre de lancer maximal** par cible du sort **Vulnérabilité**                   |
+| Pandawa 🍻  | Invulnérabilité      | **Augmente** de **1** le **nombre de lancer maximal** par cible du sort **Vulnérabilité**                   |
