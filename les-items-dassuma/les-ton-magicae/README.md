@@ -2,7 +2,7 @@
 description: ✨ Ton Magicae ✨
 ---
 
-# Les Ton Magicae
+# ✨ Les Ton Magicae
 
 Les **Ton Magicae** sont de mystérieuses potions capables de modifier vos sorts pour les rendre **plus puissants** ou leur donner des **effets uniques**.
 

@@ -2,7 +2,7 @@
 description: 🎁 Mystery Ton Magicae v1
 ---
 
-# Mystery Ton Magicae v1
+# ✴️ Mystery Ton Magicae v1
 
 Dans l’univers d’**Asuma**, certaines boîtes mystérieuses circulent parmi les aventuriers les plus curieux… Ce sont les **Mystery Ton Magicae** !
 

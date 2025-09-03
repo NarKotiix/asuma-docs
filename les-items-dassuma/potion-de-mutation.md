@@ -2,7 +2,7 @@
 description: 🧪 Potion de Mutation
 ---
 
-# Potion de mutation
+# 🧴 Potion de mutation
 
 Dans le monde d’**Asuma**, certaines potions rares permettent de révéler tout le potentiel caché de vos sorts.\
 \

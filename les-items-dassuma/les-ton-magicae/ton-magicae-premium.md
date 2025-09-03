@@ -2,7 +2,7 @@
 description: 🌟 Ton Magicae Premium 🌟
 ---
 
-# Ton Magicae PREMIUM
+# 🌟 Ton Magicae PREMIUM
 
 Les **Ton Magicae Premium** représentent le sommet de la puissance magique sur **Asuma**. Bien plus que de simples altérations, ce sont des versions **ultimes** de vos sorts, capables de transformer radicalement votre gameplay.
 
