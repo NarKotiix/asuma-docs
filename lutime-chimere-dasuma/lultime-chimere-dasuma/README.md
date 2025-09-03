@@ -1,9 +1,9 @@
-# L'Ultime Chimère d'Asuma
+# 🌀 L'Ultime Chimère d'Asuma
 
 🌀 **L’Ultime Chimère d’Asuma**\
 Il s’agit de la voie “_**gratuite**_” permettant d’obtenir des **reliques mythiques** sans passer par la roulette ou l'hôtel de vente.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 ⚔️ Cependant, ne vous y trompez pas : la quête qui mène à cette objet légendaire est **longue, périlleuse et semée d’embûches**. \

@@ -1,8 +1,8 @@
-# Relique Mythique
+# 🗡️ Relique Mythique
 
 🗡️ **Qu’est-ce sont les Relique Mythique ?**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ⚔️ **"Voici la liste complète des reliques que vous pouvez actuellement dénicher dans le monde d’Asuma."**
 

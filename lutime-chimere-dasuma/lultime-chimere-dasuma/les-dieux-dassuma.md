@@ -1,4 +1,4 @@
-# Les Dieux d'Assuma
+# 👼 Les Dieux d'Assuma
 
 **Première salle de boss : 6 Dieux vous y attendent, et donc les 6 premiers Jets.**
 

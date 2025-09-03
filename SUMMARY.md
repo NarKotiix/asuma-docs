@@ -27,33 +27,6 @@
   * [🍧 Les Dofus Frigost](les-items/les-dofus/les-dofus-frigost/README.md)
     * [Amélioration des Dofus Frigost](les-items/les-dofus/les-dofus-frigost/amelioration-des-dofus-frigost.md)
 
-## 🔨 Forgemagie
-
-* [🧴 Système des fioles d'amélioration](forgemagie/systeme-des-fioles-damelioration.md)
-* [🔯 Jetons JP et les Runes Légendaires](forgemagie/jetons-jp-et-les-runes-legendaires.md)
-
-## L'Utime Chimère d'Asuma
-
-* [L'Ultime Chimère d'Asuma](lutime-chimere-dasuma/lultime-chimere-dasuma/README.md)
-  * [Les Jet's](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/README.md)
-    * [🛡️ Jet'Glyphe de l'Exil (Féca)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetglyphe-de-lexil-feca.md)
-    * [🐗 Jet'Dresseur d'Abysses (Osa)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetdresseur-dabysses-osa.md)
-    * [💓 Jet'Dernière Gérison (Eniripsa)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetderniere-gerison-eniripsa.md)
-    * [💰 Jet'Odin' (Enutrof)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetodin-enutrof.md)
-    * [⚔️ Jet'Lame de l'Éternel (Iop)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetlame-de-leternel-iop.md)
-    * [👿 Jet'Ombre Éternelle (Sram)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetombre-eternelle-sram.md)
-    * [🏹 Jet'Twisted Sénior (Cra)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jettwisted-senior-cra.md)
-    * [⏳ Jet'AP de l'Éternité (Xélor)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetap-de-leternite-xelor.md)
-    * [😾 Jet'Dé des Âmes Tourmentées (Ecaflip)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetde-des-ames-tourmentees-ecaflip.md)
-    * [🩸 Jet'Souffrance Transcendée (Sacrieur)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetsouffrance-transcendee-sacrieur.md)
-    * [🌳 Jet'Cauchemar Ancestral (Sadida)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetcauchemar-ancestral-sadida.md)
-    * [🍻 Jet'Budweiser de l'Apocalypse (Pandawa)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetbudweiser-de-lapocalypse-pandawa.md)
-  * [Les Dieux d'Assuma](lutime-chimere-dasuma/lultime-chimere-dasuma/les-dieux-dassuma.md)
-
-## 🗡️ Les Reliques Mytiques
-
-* [Relique Mythique](les-reliques-mytiques/relique-mythique.md)
-
 ## ❄️ Frigost
 
 * [☃️ Mécaniques de Frigost](frigost/mecaniques-de-frigost/README.md)
@@ -69,7 +42,41 @@
     * [Missiz Frizz](frigost/mecaniques-de-frigost/rejoindre-frigost/missiz-frizz.md)
     * [Sylargh](frigost/mecaniques-de-frigost/rejoindre-frigost/sylargh.md)
     * [Comte Harebourg](frigost/mecaniques-de-frigost/rejoindre-frigost/comte-harebourg.md)
-* [🧊 Les items Frigost](frigost/les-items-frigost.md)
+
+## 🔨 Forgemagie
+
+* [🧴 Système des fioles d'amélioration](forgemagie/systeme-des-fioles-damelioration.md)
+* [🔯 Jetons JP et les Runes Légendaires](forgemagie/jetons-jp-et-les-runes-legendaires.md)
+
+## 🌀 L'Utime Chimère d'Asuma
+
+* [🌀 L'Ultime Chimère d'Asuma](lutime-chimere-dasuma/lultime-chimere-dasuma/README.md)
+  * [🧠 Les Jet's](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/README.md)
+    * [🛡️ Jet'Glyphe de l'Exil (Féca)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetglyphe-de-lexil-feca.md)
+    * [🐗 Jet'Dresseur d'Abysses (Osa)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetdresseur-dabysses-osa.md)
+    * [💓 Jet'Dernière Gérison (Eniripsa)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetderniere-gerison-eniripsa.md)
+    * [💰 Jet'Odin' (Enutrof)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetodin-enutrof.md)
+    * [⚔️ Jet'Lame de l'Éternel (Iop)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetlame-de-leternel-iop.md)
+    * [👿 Jet'Ombre Éternelle (Sram)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetombre-eternelle-sram.md)
+    * [🏹 Jet'Twisted Sénior (Cra)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jettwisted-senior-cra.md)
+    * [⏳ Jet'AP de l'Éternité (Xélor)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetap-de-leternite-xelor.md)
+    * [😾 Jet'Dé des Âmes Tourmentées (Ecaflip)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetde-des-ames-tourmentees-ecaflip.md)
+    * [🩸 Jet'Souffrance Transcendée (Sacrieur)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetsouffrance-transcendee-sacrieur.md)
+    * [🌳 Jet'Cauchemar Ancestral (Sadida)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetcauchemar-ancestral-sadida.md)
+    * [🍻 Jet'Budweiser de l'Apocalypse (Pandawa)](lutime-chimere-dasuma/lultime-chimere-dasuma/les-jets/jetbudweiser-de-lapocalypse-pandawa.md)
+  * [👼 Les Dieux d'Assuma](lutime-chimere-dasuma/lultime-chimere-dasuma/les-dieux-dassuma.md)
+
+## 🗡️ Les Reliques Mytiques
+
+* [🗡️ Relique Mythique](les-reliques-mytiques/relique-mythique.md)
+
+## ⚡ Les items d'Assuma
+
+* [Les Ton Magicae](les-items-dassuma/les-ton-magicae/README.md)
+  * [Mystery Ton Magicae v1](les-items-dassuma/les-ton-magicae/mystery-ton-magicae-v1.md)
+  * [Mystery Ton Magicae v2](les-items-dassuma/les-ton-magicae/mystery-ton-magicae-v2.md)
+  * [Ton Magicae PREMIUM](les-items-dassuma/les-ton-magicae/ton-magicae-premium.md)
+* [Potion de mutation](les-items-dassuma/potion-de-mutation.md)
 
 ## 💱 Les devises
 
