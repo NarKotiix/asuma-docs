@@ -8,9 +8,8 @@ Un **PNJ échangeur** vous permet de transformer vos Dofus classiques en **versi
 
 ✨ À vous de jouer : allez chercher vos Dofus, puis décidez si vous avez le courage (et les ressources) pour viser leur forme la plus redoutable !
 
+***
 
-
-* **Dofus Vulbis \[Amélioré]** contre **10** **Dofus Vulbis**.
 * **Dofus Ocre \[Amélioré]** contre **10** **Dofus Ocre.**
 * **Dofus Ebène \[Amélioré]** contre **15** **Dofus Ebène**.
 * **Dofus Ivoire \[Amélioré]** contre **15** **Dofus Ivoire.**

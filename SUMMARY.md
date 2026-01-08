@@ -70,6 +70,8 @@
     * [🍻 Jet'Budweiser de l'Apocalypse (Pandawa)](les-items-dasuma/lultime-chimere-dasuma/les-jets/jetbudweiser-de-lapocalypse-pandawa.md)
   * [👼 Les Dieux d'Asuma](les-items-dasuma/lultime-chimere-dasuma/les-dieux-dasuma.md)
 * [🗡️ Relique Mythique](les-items-dasuma/relique-mythique.md)
+* [🏹 L'utime Ouroboros](les-items-dasuma/lutime-ouroboros.md)
+* [💀 Relique du Dragon Céleste](les-items-dasuma/relique-du-dragon-celeste.md)
 
 ## 💱 Les devises
 

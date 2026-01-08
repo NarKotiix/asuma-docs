@@ -4,8 +4,15 @@ description: 🖤 Les Dofus Obscur sur Asuma
 
 # ⚛️ Les Dofus Obscur
 
-Sur **Asuma**, les Dofus Obscur sont des trésors d’une rareté extrême, gardés par les **Boss Obscur** les plus dangereux du serveur. Du **Dofus Vinaigrette** sur Tournesol Affamé Obscur, Mob l’Éponge Obscur ou Bouftou Royal Obscur, jusqu’aux Dofus légendaires **Vulbis, Ivoire et Ebène** tombant sur Bworker Obscur, Ilyzaelle Obscur ou Qu’Tan Obscur, chaque combat est un défi où stratégie et patience s’allient. Leur rareté exceptionnelle en fait des récompenses inestimables, capables de transformer un simple aventurier en véritable légende. \
-Préparez vos tactiques et partez à la conquête de ces joyaux uniques !\
+Sur **Asuma**, les Dofus Obscur sont des trésors d’une rareté extrême, gardés par les **Boss Obscur** les plus dangereux du serveur. \
+\
+Du **Dofus Vinaigrette** sur Tournesol Affamé Obscur, Mob l’Éponge Obscur ou Bouftou Royal Obscur, jusqu’aux Dofus légendaires **Vulbis, Ivoire et Ebène** tombant sur Bworker Obscur, Ilyzaelle Obscur ou Qu’Tan Obscur, chaque combat est un défi où stratégie et patience s’allient. \
+\
+Leur rareté exceptionnelle en fait des récompenses inestimables, capables de transformer un simple aventurier en véritable légende. \
+Préparez vos tactiques et partez à la conquête de ces joyaux uniques !<br>
+
+***
+
 \
 🟢 **Dofus Vinaigrette**
 
